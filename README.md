@@ -2,7 +2,7 @@
 
 The Robot Problem: A first requirements specification - source code file robot.py
 
-This solution is based in the "Find the number of islands | Set 1 (Using DFS)" that can be found in https://www.geeksforgeeks.org/find-number-of-islands/
+This solution is based on "Find the number of islands | Set 1 (Using DFS)" that can be found in https://www.geeksforgeeks.org/find-number-of-islands/
 
 ## Getting Started
 
