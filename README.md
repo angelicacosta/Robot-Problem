@@ -45,10 +45,10 @@ In the file test_robot.py you can see the tests made for the following methods:
 To try the solution, import the class Grid from robot.py and create a grid. Eg:
 ```
 g=Grid([[1,1,1,0,1,1,1,0,1,1],
-		[1,0,1,0,1,1,1,0,1,1],
-		[1,1,1,0,1,1,1,0,1,1],
-		[0,0,0,1,1,1,1,0,1,1],
-	    [1,1,1,0,1,1,1,0,1,1]])
+	[1,0,1,0,1,1,1,0,1,1],
+	[1,1,1,0,1,1,1,0,1,1],
+	[0,0,0,1,1,1,1,0,1,1],
+	[1,1,1,0,1,1,1,0,1,1]])
 
 ```
 Then, you can use the method calculateRobots() as follows:
